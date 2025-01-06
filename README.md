@@ -32,5 +32,5 @@ This project demonstrates the process of creating a large-scale language model f
 
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/<your-username>/llm-from-scratch.git
+   git clone https://github.com/Hitesh-Potla/HiPpyBot.git
    cd llm-from-scratch
