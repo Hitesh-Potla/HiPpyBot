@@ -1,6 +1,6 @@
 # LLM from Scratch  
 
-Welcome to the **LLM from Scratch** project! This repository contains the implementation and training pipeline for a 200-million-parameter Large Language Model (LLM), designed as a conversational AI or chatbot. The project aims to explore the intricacies of building a transformer-based language model from the ground up, optimizing it for meaningful human-like interactions.  
+Welcome to the **LLM from Scratch** project! This repository contains the implementation and training pipeline for a 50-million-parameter Large Language Model (LLM), designed as a conversational AI or chatbot. The project aims to explore the intricacies of building a transformer-based language model from the ground up, optimizing it for meaningful human-like interactions.  
 
 ## About the Project  
 
