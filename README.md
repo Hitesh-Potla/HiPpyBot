@@ -15,7 +15,7 @@ This project demonstrates the process of creating a large-scale language model f
 
 ## Key Features  
 
-- **Custom Transformer Architecture**: A robust 200-million-parameter design optimized for conversational AI tasks.  
+- **Custom Transformer Architecture**: A robust 50-million-parameter design optimized for conversational AI tasks.  
 - **Extensible Training Pipeline**: Easily adaptable to include new datasets and hyperparameter configurations.  
 - **Open Source**: Licensed under the Apache 2.0 License, encouraging collaboration and innovation.  
 
